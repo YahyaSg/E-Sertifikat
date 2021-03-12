@@ -1,0 +1,14 @@
+{
+    "name": "user/sertifikat",
+    "type": "project",
+    "require": {
+        "fpdf/fpdf": "^1.81"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fajar Ru",
+            "email": "kzofajar@gmail.com"
+        }
+    ]
+}
